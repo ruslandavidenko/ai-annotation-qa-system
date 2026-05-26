@@ -1,10 +1,16 @@
+<div align="center">
+
 # AI Annotation QA System
+
+### Quality Assurance & Evaluation Workflows for AI Training Pipelines
 
 AI annotation quality assurance workflows for ranking, relevance scoring, factuality checks, and safety evaluation.
 
+</div>
+
 ---
 
-## Overview
+# 🔍 Overview
 
 This repository contains AI annotation QA and evaluation workflows used for validating AI-generated outputs and human feedback pipelines.
 
@@ -18,7 +24,7 @@ Focused areas include:
 
 ---
 
-## Features
+# 🔧 Features
 
 - Annotation validation workflows
 - Evaluation scoring systems
@@ -29,18 +35,15 @@ Focused areas include:
 
 ---
 
-## Tech Stack
+# 🛠️ Tech Stack
 
-- Python
-- Pandas
-- NumPy
-- OpenAI API
-- NLP Tooling
-- Evaluation Pipelines
+```text
+Python • Pandas • NumPy • OpenAI API • NLP Tooling • Evaluation Pipelines
+```
 
 ---
 
-## Use Cases
+# 🚀 Use Cases
 
 - RLHF workflows
 - LLM evaluation
@@ -50,7 +53,7 @@ Focused areas include:
 
 ---
 
-## Planned Additions
+# 📈 Planned Additions
 
 - Evaluation scripts
 - Notebook demos
@@ -60,16 +63,16 @@ Focused areas include:
 
 ---
 
-## Status
+# 📌 Status
 
 🚧 Active Development
 
 ---
 
-## Author
+# 👨‍💻 Author
 
-Ruslan Davidenko  
-AI/ML Research Engineer
+**Ruslan Davidenko**  
+AI Systems & Evaluation Engineer
 
 Portfolio:  
 https://ruslandavidenko.github.io/
